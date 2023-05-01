@@ -1,0 +1,12 @@
+2023-04-30 22:50:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "COMPANY" not found; SQL statement:
+DROP TABLE COMPANY [42102-200]
+2023-04-30 22:50:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "COMPANY" not found; SQL statement:
+SELECT * FROM COMPANY [42102-200]
+2023-04-30 22:50:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "COMPANY" not found; SQL statement:
+DROP TABLE COMPANY [42102-200]
+2023-04-30 22:50:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "COMPANY" not found; SQL statement:
+SELECT * FROM COMPANY [42102-200]
